@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "2576c6dc0f0911b75dec1161b3211ead"
+build_time: [1606837345, 751807000]
+inputs:
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/checkouts/files/Sources/Files.swift": [1606837317, 185177358]

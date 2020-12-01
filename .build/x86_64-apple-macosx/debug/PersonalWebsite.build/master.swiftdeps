@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "e3d9cde33cbe7c17247a8045574b19c0"
+build_time: [1606837354, 264217000]
+inputs:
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Blog.swift": [1606837096, 854698601]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/DateFormatter.swift": [1606837096, 868532605]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+ArticleHeader.swift": [1606837096, 859997995]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Footer.swift": [1606837096, 856722100]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Grid.swift": [1606837096, 862776423]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Head.swift": [1606837096, 858255137]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Header.swift": [1606837096, 859083581]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Page.swift": [1606837096, 866538823]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Sidebar.swift": [1606837096, 857569073]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+SidebarPage.swift": [1606837096, 860821075]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Wrapper.swift": [1606837096, 865285494]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/SocialMedia.swift": [1606837096, 855613703]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Theme/Theme+Blog.swift": [1606837096, 867645275]
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/main.swift": [1606837096, 869279048]

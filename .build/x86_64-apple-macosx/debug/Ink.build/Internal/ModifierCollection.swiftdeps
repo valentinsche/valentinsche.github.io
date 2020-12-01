@@ -1,0 +1,136 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ModifierCollection"
+provides-nominal:
+- "3Ink18ModifierCollectionV"
+provides-member:
+- ["3Ink18ModifierCollectionV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "Dictionary"
+- "Modifier"
+- "ModifierCollection"
+- "Void"
+- !private "modifiers"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "forEach"]
+- !private ["SK", ""]
+- !private ["SK", "append"]
+- !private ["SK", "forEach"]
+- !private ["Sl", ""]
+- !private ["Sl", "append"]
+- !private ["Sl", "forEach"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["Se", "append"]
+- !private ["Se", "forEach"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "append"]
+- !private ["SE", "forEach"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", ""]
+- !private ["SQ", "append"]
+- !private ["SQ", "forEach"]
+- !private ["SQ", "init"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["SH", "append"]
+- !private ["SH", "forEach"]
+- !private ["SH", "init"]
+- !private ["SH", "subscript"]
+- ["3Ink8ModifierV", "Target"]
+- !private ["3Ink8ModifierV", "target"]
+- !private ["3Ink18ModifierCollectionV", "Dictionary"]
+- ["3Ink18ModifierCollectionV", "Modifier"]
+- ["3Ink18ModifierCollectionV", "Void"]
+- ["3Ink18ModifierCollectionV", "applyModifiers"]
+- ["3Ink18ModifierCollectionV", "init"]
+- ["3Ink18ModifierCollectionV", "insert"]
+- !private ["3Ink18ModifierCollectionV", "modifiers"]
+- !private ["SM", "append"]
+- !private ["SM", "forEach"]
+- !private ["Sk", "append"]
+- !private ["Sk", "forEach"]
+- !private ["Sm", ""]
+- !private ["Sm", "append"]
+- !private ["Sm", "forEach"]
+- !private ["ST", ""]
+- !private ["ST", "append"]
+- !private ["ST", "forEach"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- ["3Ink8ModifierV6TargetO", ""]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "Sl"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "SH"
+- "3Ink8ModifierV"
+- "3Ink18ModifierCollectionV"
+- !private "SM"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- "3Ink8ModifierV6TargetO"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PublishCLICore.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Splash.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Publish.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Ink.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/SplashPublishPlugin.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Files.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Plot.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/ShellOut.build/module.modulemap"
+interface-hash: "949a2ceebb699efcd4bf3f0ff0279a94"

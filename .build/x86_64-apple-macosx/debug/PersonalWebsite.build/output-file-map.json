@@ -1,0 +1,89 @@
+{
+  "": {
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/master.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Blog.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Blog.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Blog.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Blog~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Blog.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/DateFormatter.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/DateFormatter.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/DateFormatter.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/DateFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/DateFormatter.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+ArticleHeader.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+ArticleHeader.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+ArticleHeader.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+ArticleHeader~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+ArticleHeader.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Footer.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Footer.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Footer.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Footer~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Footer.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Grid.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Grid.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Grid.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Grid~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Grid.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Head.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Head.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Head.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Head~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Head.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Header.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Header.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Header.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Header~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Header.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Page.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Page.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Page.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Page~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Page.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Sidebar.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Sidebar.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Sidebar.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Sidebar~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Sidebar.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+SidebarPage.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+SidebarPage.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+SidebarPage.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+SidebarPage~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+SidebarPage.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Nodes/Node+Wrapper.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Wrapper.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Wrapper.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Wrapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Nodes/Node+Wrapper.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/SocialMedia.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/SocialMedia.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/SocialMedia.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/SocialMedia~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/SocialMedia.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/Theme/Theme+Blog.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Theme/Theme+Blog.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Theme/Theme+Blog.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Theme/Theme+Blog~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/Theme/Theme+Blog.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/Sources/PersonalWebsite/main.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/main.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/main.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PersonalWebsite.build/main.swiftdeps"
+  }
+}

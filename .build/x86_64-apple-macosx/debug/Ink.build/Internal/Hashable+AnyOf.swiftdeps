@@ -1,0 +1,64 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["SH", ""]
+- ["SH", "isAny"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "Hashable"
+- "Self"
+- "Set"
+depends-member:
+- !private ["Sl", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["Se", "contains"]
+- !private ["SE", "contains"]
+- ["SQ", "Bool"]
+- ["SQ", "Set"]
+- ["SQ", ""]
+- !private ["SQ", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- ["SH", "Bool"]
+- ["SH", "Set"]
+- ["SH", ""]
+- !private ["SH", "contains"]
+- ["SH", "isAny"]
+- !private ["ST", ""]
+- !private ["ST", "contains"]
+- !private ["Sh", "contains"]
+- !private ["s10SetAlgebraP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+depends-nominal:
+- !private "Sl"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "ST"
+- !private "Sh"
+- !private "s10SetAlgebraP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PublishCLICore.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Splash.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Publish.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Ink.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/SplashPublishPlugin.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Files.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Plot.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/ShellOut.build/module.modulemap"
+interface-hash: "0c555195c0351868ed4f3739b51a179e"

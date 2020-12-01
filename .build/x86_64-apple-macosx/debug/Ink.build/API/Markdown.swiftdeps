@@ -1,0 +1,60 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Markdown"
+provides-nominal:
+- "3Ink8MarkdownV"
+provides-member:
+- ["3Ink8MarkdownV", ""]
+provides-dynamic-lookup:
+- "title"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Heading"
+- "Markdown"
+- "String"
+- "TitleStorage"
+- !private "makeTitle"
+- !private "overrideTitle"
+- !private "titleHeading"
+- !private "titleStorage"
+depends-member:
+- !private ["3Ink15HTMLConvertibleP", "plainText"]
+- !private ["3Ink7HeadingV", ""]
+- !private ["3Ink7HeadingV", "plainText"]
+- ["3Ink8MarkdownV", "Heading"]
+- ["3Ink8MarkdownV", "String"]
+- ["3Ink8MarkdownV", "TitleStorage"]
+- ["3Ink8MarkdownV", ""]
+- ["3Ink8MarkdownV", "html"]
+- ["3Ink8MarkdownV", "init"]
+- !private ["3Ink8MarkdownV", "makeTitle"]
+- ["3Ink8MarkdownV", "metadata"]
+- !private ["3Ink8MarkdownV", "overrideTitle"]
+- ["3Ink8MarkdownV", "title"]
+- !private ["3Ink8MarkdownV", "titleHeading"]
+- !private ["3Ink8MarkdownV", "titleStorage"]
+- !private ["3Ink10ModifiableP", "plainText"]
+- !private ["3Ink20PlainTextConvertibleP", "plainText"]
+- !private ["3Ink8ReadableP", "plainText"]
+depends-nominal:
+- !private "3Ink15HTMLConvertibleP"
+- !private "3Ink7HeadingV"
+- "3Ink8MarkdownV"
+- !private "3Ink10ModifiableP"
+- !private "3Ink20PlainTextConvertibleP"
+- !private "3Ink8ReadableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PublishCLICore.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Splash.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Publish.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Ink.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/SplashPublishPlugin.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Files.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Plot.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/ShellOut.build/module.modulemap"
+interface-hash: "363bb4b3a1cdd946c8cfe4a796ec7c1f"

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "16f3c8643fddb29a900fc349b1536fc8"
+build_time: [1606837322, 8188000]
+inputs:
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/checkouts/shellout/Sources/ShellOut.swift": [1606837315, 833892256]

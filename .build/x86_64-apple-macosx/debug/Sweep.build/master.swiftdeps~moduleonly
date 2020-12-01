@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "af4c522fb2573a4a0b759325db1d3c31"
+build_time: [1606837322, 8253000]
+inputs:
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/checkouts/sweep/Sources/Sweep/Sweep.swift": [1606837317, 912583906]

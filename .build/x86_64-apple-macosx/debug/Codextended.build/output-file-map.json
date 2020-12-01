@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/master.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/checkouts/codextended/Sources/Codextended/Codextended.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.swiftdeps"
+  }
+}

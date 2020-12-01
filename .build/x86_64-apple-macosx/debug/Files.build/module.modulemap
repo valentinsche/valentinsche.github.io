@@ -1,0 +1,4 @@
+module Files {
+    header "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Files.build/Files-Swift.h"
+    requires objc
+}

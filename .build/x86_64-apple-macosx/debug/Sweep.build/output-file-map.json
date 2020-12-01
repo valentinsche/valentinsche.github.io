@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/master.swiftdeps"
+  },
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/checkouts/sweep/Sources/Sweep/Sweep.swift": {
+    "dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.d",
+    "object": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.swift.o",
+    "swiftmodule": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.swiftdeps"
+  }
+}

@@ -1,0 +1,222 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["4Plot4NodeO", ""]
+- ["4Plot4NodeO", "articleHeader"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Blog"
+- "Context"
+- !private "DateFormatter"
+- "HTML"
+- "Item"
+- "Node"
+- !private "StringLiteralType"
+depends-member:
+- !private ["11Codextended16AnyDateFormatterP", "article"]
+- !private ["11Codextended16AnyDateFormatterP", "string"]
+- !private ["7Publish7AnyItemP", "date"]
+- !private ["7Publish7AnyItemP", "title"]
+- !private ["4Plot7AnyNodeP", "DateFormatter"]
+- !private ["4Plot7AnyNodeP", "class"]
+- !private ["4Plot7AnyNodeP", "div"]
+- !private ["4Plot7AnyNodeP", "h1"]
+- !private ["4Plot7AnyNodeP", "i"]
+- !private ["4Plot7AnyNodeP", "text"]
+- ["15PersonalWebsite4BlogV", ""]
+- !private ["s7CVarArgP", "article"]
+- !private ["s7CVarArgP", "string"]
+- !private ["7Publish15ContentProtocolP", ""]
+- !private ["7Publish15ContentProtocolP", "date"]
+- !private ["7Publish15ContentProtocolP", "title"]
+- !private ["s28CustomDebugStringConvertibleP", "article"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "article"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["So15NSDateFormatterC", "article"]
+- !private ["So15NSDateFormatterC", "date"]
+- !private ["So15NSDateFormatterC", "string"]
+- ["4Plot14DocumentFormatP", "BodyContext"]
+- !private ["SQ", ""]
+- !private ["SQ", "article"]
+- !private ["SQ", "date"]
+- !private ["SQ", "string"]
+- !private ["SQ", "title"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "DateFormatter"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "class"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "div"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "h1"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "i"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "DateFormatter"]
+- !private ["s32ExpressibleByStringInterpolationP", "class"]
+- !private ["s32ExpressibleByStringInterpolationP", "div"]
+- !private ["s32ExpressibleByStringInterpolationP", "h1"]
+- !private ["s32ExpressibleByStringInterpolationP", "i"]
+- !private ["s32ExpressibleByStringInterpolationP", "text"]
+- !private ["s26ExpressibleByStringLiteralP", "DateFormatter"]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "class"]
+- !private ["s26ExpressibleByStringLiteralP", "div"]
+- !private ["s26ExpressibleByStringLiteralP", "h1"]
+- !private ["s26ExpressibleByStringLiteralP", "i"]
+- !private ["s26ExpressibleByStringLiteralP", "text"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "DateFormatter"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "class"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "div"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "h1"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "i"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "text"]
+- !private ["So11NSFormatterC", "article"]
+- !private ["So11NSFormatterC", "date"]
+- !private ["So11NSFormatterC", "dateFromString"]
+- !private ["So11NSFormatterC", "string"]
+- !private ["So11NSFormatterC", "stringFromDate"]
+- ["4Plot4HTMLV", "BodyContext"]
+- !private ["SH", "article"]
+- !private ["SH", "date"]
+- !private ["SH", "string"]
+- !private ["SH", "title"]
+- !private ["7Publish4ItemV", "date"]
+- !private ["7Publish4ItemV", "title"]
+- !private ["7Publish8LocationP", ""]
+- !private ["7Publish8LocationP", "date"]
+- !private ["7Publish8LocationP", "title"]
+- !private ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "article"]
+- !private ["So8NSCodingP", "date"]
+- !private ["So8NSCodingP", "dateFromString"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So8NSCodingP", "stringFromDate"]
+- !private ["So9NSCopyingP", "article"]
+- !private ["So9NSCopyingP", "date"]
+- !private ["So9NSCopyingP", "dateFromString"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So9NSCopyingP", "stringFromDate"]
+- !private ["So8NSObjectC", "article"]
+- !private ["So8NSObjectC", "date"]
+- !private ["So8NSObjectC", "dateFromString"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectC", "stringForObjectValue"]
+- !private ["So8NSObjectC", "stringFromDate"]
+- !private ["So8NSObjectP", "article"]
+- !private ["So8NSObjectP", "date"]
+- !private ["So8NSObjectP", "dateFromString"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So8NSObjectP", "stringForObjectValue"]
+- !private ["So8NSObjectP", "stringFromDate"]
+- ["4Plot4NodeO", "Blog"]
+- !private ["4Plot4NodeO", "DateFormatter"]
+- ["4Plot4NodeO", "HTML"]
+- ["4Plot4NodeO", "Item"]
+- ["4Plot4NodeO", "Node"]
+- ["4Plot4NodeO", ""]
+- ["4Plot4NodeO", "articleHeader"]
+- !private ["4Plot4NodeO", "class"]
+- !private ["4Plot4NodeO", "div"]
+- !private ["4Plot4NodeO", "h1"]
+- !private ["4Plot4NodeO", "i"]
+- !private ["4Plot4NodeO", "text"]
+- ["4Plot10RenderableP", "BodyContext"]
+- !private ["4Plot10RenderableP", "DateFormatter"]
+- !private ["4Plot10RenderableP", "class"]
+- !private ["4Plot10RenderableP", "div"]
+- !private ["4Plot10RenderableP", "h1"]
+- !private ["4Plot10RenderableP", "i"]
+- !private ["4Plot10RenderableP", "text"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "article"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "article"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "string"]
+depends-nominal:
+- !private "11Codextended16AnyDateFormatterP"
+- !private "7Publish7AnyItemP"
+- !private "4Plot7AnyNodeP"
+- "15PersonalWebsite4BlogV"
+- !private "s7CVarArgP"
+- !private "7Publish15ContentProtocolP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "So15NSDateFormatterC"
+- "4Plot14DocumentFormatP"
+- !private "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So11NSFormatterC"
+- "4Plot4HTMLV"
+- !private "SH"
+- !private "7Publish4ItemV"
+- !private "7Publish8LocationP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- "4Plot4NodeO"
+- "4Plot10RenderableP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Splash.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Publish.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Ink.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/SplashPublishPlugin.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Files.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Metal.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/AppKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Plot.swiftmodule"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/ShellOut.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Codextended.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/PublishCLICore.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Splash.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Publish.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Ink.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/SplashPublishPlugin.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Sweep.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Files.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/Plot.build/module.modulemap"
+- "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/x86_64-apple-macosx/debug/ShellOut.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5bf7136e2e2e3d151ccb417a63786b14"

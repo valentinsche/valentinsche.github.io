@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "909bab536b333181cd98f184aaa51b84"
+build_time: [1606837347, 640226000]
+inputs:
+  "/Users/valentinscheldeman/Documents/GitHub/valentinsche.github.io/.build/checkouts/codextended/Sources/Codextended/Codextended.swift": [1606837316, 892055446]
