@@ -8,7 +8,7 @@ import SplashPublishPlugin
 try Blog().publish(
     withTheme: .blog,
     additionalSteps: [
-        .deploy(using: .gitHub("valentinsche/valentinscheldemanPublish"))
+        .deploy(using: .gitHub("valentinsche/valentinsche.github.io"))
     ],
     plugins: [.splash(withClassPrefix: "")]
 )
